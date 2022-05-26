@@ -41,6 +41,8 @@ Capitulo 4
 
 # Video explicativo 
 
+https://www.youtube.com/watch?v=-7OS0eqwBos
+
 # Conclusiones 
 
 # Bibliografia 
