@@ -21,4 +21,8 @@ Capitulo 1
 
 ![Concept Map Template(3)](https://user-images.githubusercontent.com/105812540/170410096-43bab628-b94e-405f-9522-7108c483ccbc.jpg)
 
-![Concept Map Template(5)](https://user-images.githubusercontent.com/105812540/170415398-1e701dda-b918-4b12-930b-c894acb6231a.jpg)
+![Concept Map Template(7)](https://user-images.githubusercontent.com/105812540/170424743-a0e4eff9-8c1e-4dcd-bff7-95c29e33b420.jpg)
+
+Capitulo 2 
+
+![Concept Map Template(6)](https://user-images.githubusercontent.com/105812540/170424305-beaed200-d024-4482-81cb-0040d635a8a6.jpg)
