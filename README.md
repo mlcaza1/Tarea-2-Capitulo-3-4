@@ -46,6 +46,10 @@ Capitulo 4
 
 # Ejercicios Cap 3
 
+2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
+
+
+
 # Ejercicios Cap 4
 
 2. Demuestre que hay 3.6 x 10^6 joules en un kilowatt-hora.
@@ -53,48 +57,49 @@ Capitulo 4
 
 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
-
-6. Convierta las siguientes cantidades en kilowatts:
-
-
-8. Convierta las siguientes cantidades en miliwatts:
+6. Convierta las siguientes cantidades en kilowatts
 
 
-10. Convierta las siguientes cantidades en watts:
+8. Convierta las siguientes cantidades en miliwatts
+
+
+10. Convierta las siguientes cantidades en watts
 
 
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
 14. Convierta 5 x 10^6 watts-minutos en kWh.
 
-
-16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
-
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 ohms para consumir 25 J?
 
 18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
+20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kohms?
 
-20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kÆ?
 
 
 22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
 
+
 24. Si un resistor tiene que transportar 2 Ade corriente y manejar 100 Wde potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 
-26. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+26. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar
 
 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
 
-30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga
 
-durante la vida de la batería?
+
+30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
 32. Una batería puede proporcionar un promedio de 1.5 Ade corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
 
 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
 
-36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de
 
-entrada es de 5 W?
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+
 # Video explicativo 
 
 https://www.youtube.com/watch?v=-7OS0eqwBos
