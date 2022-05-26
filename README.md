@@ -55,6 +55,12 @@ https://www.youtube.com/watch?v=-7OS0eqwBos
 
 # Conclusiones 
 
+•	Al repasar la ley de Ohm siempre se debe tener presenta las unidades de medida al momento de hacer los respectivos cálculos 
+
+•	Tener presente el método APM para sobrellevar los errores que se puedan presentar en un circuito 
+
+•	Concluyendo tanto la energía como la potencia están relacionadas entre sí permitiendo ampliar mucho más nuestros conocimientos en la carrera de Electrónica 
+
 # Bibliografia 
 
 Floyd, T. (indefinido de indefinido de 2007). Principios de Circuitos Electricos. En T. Floyd, Principios de Circuitos Electricos (pág. 968). Mexico: Pearson. Obtenido de https://akifrases.com/frase/183227
