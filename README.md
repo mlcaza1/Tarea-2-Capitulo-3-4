@@ -89,23 +89,46 @@ Si porque en la fórmula de ohm se indica que la corriente y el voltaje siempre 
 
 22. Calcule el voltaje para cada valor de I y R
 
+![imagen](https://user-images.githubusercontent.com/105812540/170485740-eb513ad6-5b83-4d8b-9a64-2c4c630abc72.png)
 
+24. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+
+![imagen](https://user-images.githubusercontent.com/105812540/170486322-66f7c1b3-d91a-45af-b953-87da03e34db7.png)
+
+26.Encuentre la resistencia de un reóstato para cada valor de V e I
+
+![imagen](https://user-images.githubusercontent.com/105812540/170488701-69f46919-6ff1-4ece-a2f6-adda7a43dfcd.png)
+
+28.Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+![imagen](https://user-images.githubusercontent.com/105812540/170489047-031e427b-e063-4121-9cd4-640e2dfaada2.png)
+
+30.Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+
+![imagen](https://user-images.githubusercontent.com/105812540/170489797-53861496-67f9-4166-ac97-854c93421795.png)
 
 
 # Ejercicios Cap 4
 
 2. Demuestre que hay 3.6 x 10^6 joules en un kilowatt-hora.
 
+![imagen](https://user-images.githubusercontent.com/105812540/170490474-24f202fe-4da7-4709-94a9-5d33281d5db5.png)
 
 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
+![imagen](https://user-images.githubusercontent.com/105812540/170490820-2a7cccae-97aa-4ffb-a011-8b2afe26d375.png)
+
 6. Convierta las siguientes cantidades en kilowatts
+
+![imagen](https://user-images.githubusercontent.com/105812540/170491493-d37762d9-1f8a-49cf-a94f-15608a32830e.png)
 
 
 8. Convierta las siguientes cantidades en miliwatts
 
+![imagen](https://user-images.githubusercontent.com/105812540/170492017-4d122606-9f39-47d1-af28-e346406f3374.png)
 
 10. Convierta las siguientes cantidades en watts
+
 
 
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
