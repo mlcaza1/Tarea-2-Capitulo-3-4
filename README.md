@@ -48,6 +48,48 @@ Capitulo 4
 
 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 
+![imagen](https://user-images.githubusercontent.com/105812540/170478200-6d3b35bd-96ec-4549-8030-02ba4bc39a61.png)
+
+4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+
+![imagen](https://user-images.githubusercontent.com/105812540/170478288-82793afc-8e42-4438-be2a-7f36c440365c.png)
+
+6.En cierto circuito, I  5 mA cuando V  1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
+
+![imagen](https://user-images.githubusercontent.com/105812540/170479230-e01fca5f-c1cd-46c8-b70d-125d42a66347.png)
+
+8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+
+![imagen](https://user-images.githubusercontent.com/105812540/170480094-86afac82-c520-4a95-b7fc-c518ffebddfa.png)
+
+10.¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
+![imagen](https://user-images.githubusercontent.com/105812540/170481014-7e157953-514e-4138-9c32-5fff7331fbab.png)
+
+12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+![imagen](https://user-images.githubusercontent.com/105812540/170481529-a6e6e252-f28e-4e04-9144-9880e6dfa80c.png)
+
+14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
+
+Si porque en la fórmula de ohm se indica que la corriente y el voltaje siempre son constante es decir que son proporcionales la una de la otra.
+
+16. Determine la corriente en cada caso
+
+![imagen](https://user-images.githubusercontent.com/105812540/170482928-08e5b609-8fc3-4547-af4d-c6eaa8384292.png)
+
+18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+![imagen](https://user-images.githubusercontent.com/105812540/170483407-49f38ca3-6819-438c-aba5-4781f639ec65.png)
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+![imagen](https://user-images.githubusercontent.com/105812540/170483668-53a64a6b-e99e-4c5b-a7ce-646bb3ae6d8a.png)
+
+22. Calcule el voltaje para cada valor de I y R
+
+
 
 
 # Ejercicios Cap 4
