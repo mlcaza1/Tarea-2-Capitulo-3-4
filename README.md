@@ -32,3 +32,28 @@ Capitulo 4
 ![Concept Map Template(9)](https://user-images.githubusercontent.com/105812540/170430252-65fe8981-e567-47ad-b32e-b2fbbfeafd15.jpg)
 
 
+#Explicacion y resolucion de ejercicios 
+
+# Ejercicios Cap 3
+
+# Ejercicios Cap 4
+
+
+# Video explicativo 
+
+# Conclusiones 
+
+# Bibliografia 
+
+Floyd, T. (indefinido de indefinido de 2007). Principios de Circuitos Electricos. En T. Floyd, Principios de Circuitos Electricos (pág. 968). Mexico: Pearson. Obtenido de https://akifrases.com/frase/183227
+
+
+
+
+
+
+
+
+
+
+
