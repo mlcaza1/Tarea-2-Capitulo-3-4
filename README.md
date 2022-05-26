@@ -129,11 +129,16 @@ Si porque en la fórmula de ohm se indica que la corriente y el voltaje siempre 
 
 10. Convierta las siguientes cantidades en watts
 
+![imagen](https://user-images.githubusercontent.com/105812540/170493905-0b69e926-81c3-4f9b-8c5c-08d373cf4ebe.png)
 
 
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
+![imagen](https://user-images.githubusercontent.com/105812540/170494542-ccc149e5-4e65-461a-836e-8b8753ff5bc5.png)
+
+
 14. Convierta 5 x 10^6 watts-minutos en kWh.
+
 
 16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 ohms para consumir 25 J?
 
