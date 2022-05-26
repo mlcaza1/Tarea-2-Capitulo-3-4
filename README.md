@@ -29,3 +29,6 @@ Capitulo 4
 
 ![Concept Map Template(8)](https://user-images.githubusercontent.com/105812540/170427780-f0a461da-3ba6-436a-8d7a-608c9e0e9435.jpg)
 
+![Concept Map Template(9)](https://user-images.githubusercontent.com/105812540/170430252-65fe8981-e567-47ad-b32e-b2fbbfeafd15.jpg)
+
+
