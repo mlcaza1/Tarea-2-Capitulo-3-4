@@ -10,15 +10,16 @@ NRC: 7309
 
 # Objetivos 
 
-Entender la ley de Ohm para calcular la corriente, resistencia e intensidad en un circuito 
+•	Entender la ley de Ohm para calcular la corriente, resistencia e intensidad en un circuito 
 
-Utilizar los prefijos metricos en la resolucion de problema con el SI
+•	Utilizar los prefijos métricos en la resolución de problema con el SI
 
-Describir una localizacion de fallas en un circuito
+•	Describir una localización de fallas en un circuito
 
-Definir los terminos de energia y potencia para poder calcularlas con sus respectivas formulas
+•	Definir los términos de energía y potencia para poder calcularlas con sus respectivas formulas
 
-Entender la conversion de energia y la caida del voltaje 
+•	Entender la conversión de energía y la caída del voltaje
+
 
 # Marco Teorico 
 
