@@ -18,3 +18,5 @@ NRC: 7309
 ![Concept Map Template(2)](https://user-images.githubusercontent.com/105812540/170408387-6633c40a-60a1-4dd1-9b3c-b4691c660692.jpg)
 
 ![Concept Map Template(3)](https://user-images.githubusercontent.com/105812540/170410096-43bab628-b94e-405f-9522-7108c483ccbc.jpg)
+
+![Concept Map Template(5)](https://user-images.githubusercontent.com/105812540/170415398-1e701dda-b918-4b12-930b-c894acb6231a.jpg)
