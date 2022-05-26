@@ -139,35 +139,34 @@ Si porque en la fórmula de ohm se indica que la corriente y el voltaje siempre 
 
 14. Convierta 5 x 10^6 watts-minutos en kWh.
 
-
-16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 ohms para consumir 25 J?
-
-18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
-
-20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kohms?
+![imagen](https://user-images.githubusercontent.com/105812540/170496389-4ddd6174-bf85-4c6a-b14e-1ec40376b47a.png)
 
 
 
-22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+16.Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+![imagen](https://user-images.githubusercontent.com/105812540/170497100-e8e8b7d1-1df4-48a0-b6d2-0dc028583534.png)
 
 
-24. Si un resistor tiene que transportar 2 Ade corriente y manejar 100 Wde potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+18.¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kohms?
 
-26. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar
-
-28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+![imagen](https://user-images.githubusercontent.com/105812540/170497740-987ac4d0-c002-483e-b8f1-c055593b8949.png)
 
 
+20. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
 
-30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
-
-32. Una batería puede proporcionar un promedio de 1.5 Ade corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
-
-
-34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+![imagen](https://user-images.githubusercontent.com/105812540/170498228-572e8203-7661-4c89-b7aa-17adbea17111.png)
 
 
-36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+22. Si un resistor tiene que transportar 2 Ade corriente y manejar 100 Wde potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+![imagen](https://user-images.githubusercontent.com/105812540/170499129-d40869c4-be4b-4186-97b3-c8c0bfb28e66.png)
+
+
+
+24. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar
+
+![imagen](https://user-images.githubusercontent.com/105812540/170499217-548e8162-2881-4ec7-ae04-a206dd78e6a7.png)
 
 
 # Video explicativo 
